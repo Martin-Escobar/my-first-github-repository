@@ -1,3 +1,5 @@
-Solo un archivo más creado en la rama feature-1
+Esta linea fue remplazada localmente en la rama feature-2
 
 Este archivo fue modificado localmente
+
+Esta linea fue agregada localmente en la branch feature-2

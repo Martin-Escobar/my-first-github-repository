@@ -3,3 +3,5 @@ Esta linea fue remplazada localmente en la rama feature-2
 Este archivo fue modificado localmente
 
 Esta linea fue agregada localmente en la branch feature-2
+
+Otra linea más agregada localmente en la branch feature-2.
